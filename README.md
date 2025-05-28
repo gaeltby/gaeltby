@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaeltby alias Mr Machine
 - 👀 I’m interested in pentesting
 - 🌱 I’m currently learning ethical hack and C++ programmation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cybersecurity search
 
 
 <!---
